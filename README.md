@@ -24,7 +24,15 @@ This is the backend API for the JobBoard application built using **Node.js, Expr
 
 ---
 
-## 📦 Installation
+## ⚙️ Setup Instructions
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/Rashmiamalsha964/jobboard_backend.git
+
+cd jobboard-backend
+
+2. 📦 Installation
 
 ```bash
 npm install
@@ -56,3 +64,6 @@ GET /api/jobs/:id
 🚀 Deployment
 Backend: Railway
 MongoDB: MongoDB Atlas
+
+🌐 Live Demo
+backend: jobboardbackend-production-b133.up.railway.app
